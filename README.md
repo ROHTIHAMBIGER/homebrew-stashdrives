@@ -3,7 +3,7 @@
 A Homebrew tap for [StashDrives](https://stashdrives.com).
 
 ```bash
-brew tap you/stashdrives
+brew tap ROHTIHAMBIGER/homebrew-stashdrives
 brew install --cask stashdrives
 ```
 
